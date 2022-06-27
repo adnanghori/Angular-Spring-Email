@@ -1,0 +1,19 @@
+.return{
+    margin-top: 10%;
+    text-align: center;
+}
+
+.field{
+    width: 100%;
+    
+}
+.field button{
+    margin: 5px;
+}
+
+.card{
+    margin-left: 20%;
+    margin-top: 5%;
+    text-align: center;
+    width: 60%;
+}
